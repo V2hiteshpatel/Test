@@ -2,7 +2,10 @@ fdasf sdfdasfasd
 sdfdasf sdfdas fdasf
 dsf
 
+<<<<<<< HEAD
 Changes has been done.
 
 new changes
+=======
+>>>>>>> bdb61d27075b848a91a84160b8058dc94a3f7853
 
